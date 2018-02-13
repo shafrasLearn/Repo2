@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is EE93-8D20
+
+ Directory of C:\Users\shafras.munas\Desktop\MyProject1
+
+13/02/2018  05:43 PM    <DIR>          .
+13/02/2018  05:43 PM    <DIR>          ..
+13/02/2018  05:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  123,938,959,360 bytes free
